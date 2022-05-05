@@ -1,0 +1,30 @@
+body
+{
+background-color: black;
+color: pink;
+}
+
+.heading 
+{
+    width: 80%;
+    font-size: 25px;
+    color: plum;
+    background-color: black;
+}
+
+.name_of_objects 
+{
+    color: lightblue;
+    font-size: 24px;
+}
+
+p,#result_object_name,#result_object_accuracy
+{
+    color: lightyellow;
+}
+
+label 
+{
+    color: lightsalmon;
+    font-size: 25px;
+}
